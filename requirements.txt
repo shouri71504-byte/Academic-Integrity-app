@@ -2,3 +2,4 @@ faiss-cpu
 sentence-transformers
 fuzzywuzzy
 python-Levenshtein
+PyMuPDF
